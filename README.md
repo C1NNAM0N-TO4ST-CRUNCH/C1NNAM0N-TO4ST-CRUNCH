@@ -1,7 +1,5 @@
 ## <img width="498" height="270" alt="sakura" src="https://github.com/user-attachments/assets/0f0e41e7-c42d-4807-b897-e62482c5ae45" />
 
-<img width="1080" height="1080" alt="Untitled Project" src="https://github.com/user-attachments/assets/66348a4a-35b4-48cc-9c0a-7f53b54c8c01" />
-
 THIS IS A HUGE WIP BECAUSE IM NEW TO THIS!!!!
 <!--<img width="1080" height="1080" alt="Untitled Project" src="https://github.com/user-attachments/assets/fc02d493-d9d2-4933-8c17-48da2e561d31" />
 
