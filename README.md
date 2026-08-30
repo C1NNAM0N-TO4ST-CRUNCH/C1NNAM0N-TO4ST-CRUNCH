@@ -1,11 +1,11 @@
 ## <img width="498" height="270" alt="sakura" src="https://github.com/user-attachments/assets/0f0e41e7-c42d-4807-b897-e62482c5ae45" />
 
 THIS IS A HUGE WIP BECAUSE IM NEW TO THIS!!!!
-<!--
+<!--<img width="1080" height="1080" alt="Untitled Project" src="https://github.com/user-attachments/assets/fc02d493-d9d2-4933-8c17-48da2e561d31" />
+
 **C1NNAM0N-TO4ST-CRUNCH/C1NNAM0N-TO4ST-CRUNCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Adding more later!!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
