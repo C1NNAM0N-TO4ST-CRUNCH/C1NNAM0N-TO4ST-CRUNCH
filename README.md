@@ -1,5 +1,6 @@
-## Hi there 👋
+## <img width="498" height="270" alt="sakura" src="https://github.com/user-attachments/assets/0f0e41e7-c42d-4807-b897-e62482c5ae45" />
 
+THIS IS A HUGE WIP BECAUSE IM NEW TO THIS!!!!
 <!--
 **C1NNAM0N-TO4ST-CRUNCH/C1NNAM0N-TO4ST-CRUNCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
