@@ -33,3 +33,9 @@
 ˖ ݁𖥔 ݁˖ 𐙚 ˖ ݁𖥔 ݁˖
 
 𝗍һіs іs ᥲ ᥕі⍴ s᥆ і'ᥣᥣ ᑲᥱ ᥲძძіᥒg m᥆rᥱ 𝗍һіᥒgs іᥒ 𝗍һᥱ 𝖿ᥙ𝗍ᥙrᥱ.. 
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dtiezkrsmf4tabk7bcvz2g47ny&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9e4f2b">
+  </a>
+</p>
